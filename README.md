@@ -1,0 +1,1 @@
+This Project is Basically Based on a Time Traveller Debugger in which we can go forward as well as backward in our code . There are three Essential components server parse the file client who send the file to the server and a load Balancer who takes requests using a thread and dispatches also . 
